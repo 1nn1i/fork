@@ -80,4 +80,6 @@
 
 **git push** – отправляет локальную версию репозитория на внешний
 
-![2023-10-19_00-48-55.png](C:\Users\Ara\Desktop\gitlesson3\fork)
+![scrin](C:\Users\Ara\Desktop\gitlesson3\fork\2023-10-19_0048-55.png)
+
+
